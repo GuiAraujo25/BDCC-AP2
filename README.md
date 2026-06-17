@@ -2,7 +2,6 @@
 
 **Disciplina:** Big Data e Cloud Computing — IBMEC 2026.1  
 **Aluno:** Guilherme Araujo  
-**API em produção:** http://api-produtos-guilherme-env.eba-fppma8iz.us-east-1.elasticbeanstalk.com/admin/login/?next=/admin/
 
 ---
 
