@@ -46,8 +46,8 @@ Internet
 
 ```bash
 # 1. Clonar e instalar
-git clone https://github.com/GuiAraujo/BDCC-AP1.git
-cd BDCC-AP1
+git clone https://github.com/GuiAraujo/BDCC-AP2.git
+cd BDCC-AP2
 python -m venv venv && venv\Scripts\activate  # Windows
 pip install -r requirements.txt
 
